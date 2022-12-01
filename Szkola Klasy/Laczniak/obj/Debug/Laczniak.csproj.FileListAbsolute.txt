@@ -1,0 +1,8 @@
+C:\Users\huber\source\repos\Laczniak\Laczniak\bin\Debug\Laczniak.exe.config
+C:\Users\huber\source\repos\Laczniak\Laczniak\bin\Debug\Laczniak.exe
+C:\Users\huber\source\repos\Laczniak\Laczniak\bin\Debug\Laczniak.pdb
+C:\Users\huber\source\repos\Laczniak\Laczniak\obj\Debug\Laczniak.csproj.AssemblyReference.cache
+C:\Users\huber\source\repos\Laczniak\Laczniak\obj\Debug\Laczniak.csproj.SuggestedBindingRedirects.cache
+C:\Users\huber\source\repos\Laczniak\Laczniak\obj\Debug\Laczniak.csproj.CoreCompileInputs.cache
+C:\Users\huber\source\repos\Laczniak\Laczniak\obj\Debug\Laczniak.exe
+C:\Users\huber\source\repos\Laczniak\Laczniak\obj\Debug\Laczniak.pdb
